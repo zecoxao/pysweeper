@@ -25,7 +25,7 @@ To restore your PSP, follow a simple instruction:
 | PSP-2000                           | 8C                                         | Supported, only JigKick clone or DDCv9    |
 | PSP-3000                           | 8C 8D 9A 9B and some 9C                    | Supported, only JigKick clone or DDCv9    |
 | PSP-3000                           | some 9C; 9D, any code starting with 0 or 1 | Supported, only JigKick clone             |
-| PSPgo  (N1000)                     | Any                                        | Not supported                             |
+| PSPgo  (N1000)                     | Any                                        | Soon to be Supported                      |
 | PSP Steet (E1000)                  | Any                                        | Soon to be Supported                      |
 
 ## About
