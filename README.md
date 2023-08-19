@@ -18,15 +18,15 @@ To restore your PSP, follow a simple instruction:
 6. Connect your probe to PSP's battery terminals. If done right, it should take one or two seconds for PSP to enter recovery mode and boot from MS. 
 
 ## Compatibility list
-| Model (last digit does not matter) | DATE CODE                                  | Is compatible?                            |
-|------------------------------------|--------------------------------------------|-------------------------------------------|
-| PSP-1000                           | Any                                        | Supported, any magic MS                   |
-| PSP-2000                           | Any besides 8C                             | Supported, any magic MS                   |
-| PSP-2000                           | 8C                                         | Supported, only JigKick clone or DDCv9    |
-| PSP-3000                           | 8C 8D 9A 9B and some 9C                    | Supported, only JigKick clone or DDCv9    |
-| PSP-3000                           | some 9C; 9D, any code starting with 0 or 1 | Supported, only JigKick clone             |
-| PSPgo  (N1000)                     | Any                                        | Soon to be Supported                      |
-| PSP Steet (E1000)                  | Any                                        | Soon to be Supported                      |
+| Model (last digit does not matter) | DATE CODE                                  | Is compatible?                                                       |
+|------------------------------------|--------------------------------------------|----------------------------------------------------------------------|
+| PSP-1000                           | Any                                        | Supported, any magic MS                                              |
+| PSP-2000                           | Any besides 8C                             | Supported, any magic MS                                              |
+| PSP-2000                           | 8C                                         | Supported, only JigKick clone or DDCv9                               |
+| PSP-3000                           | 8C 8D 9A 9B and some 9C                    | Supported, only JigKick clone or DDCv9                               |
+| PSP-3000                           | some 9C; 9D, any code starting with 0 or 1 | Supported, only JigKick clone (07g Soon to be Supported)             |
+| PSPgo  (N1000)                     | Any                                        | Soon to be Supported                                                 |
+| PSP Steet (E1000)                  | Any                                        | Soon to be Supported                                                 |
 
 ## About
 - M4j0r - Syscon Voltage Fault Injection glitch help
